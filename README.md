@@ -1,0 +1,2 @@
+# DataGen
+AI Dashboard generator
